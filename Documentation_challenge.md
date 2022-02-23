@@ -21,7 +21,7 @@ Eligible teams are any for-profit / not-for profit organization building directl
 To participate and receive prizes, team who are selected must:
 - Meet with / submit a short video update once a month to check in on progress / discuss feedback (week of March 14, April 14, May 7th)
 - Achieve the minimum required threshold on the Documentation Checklist and demonstrate progress on documentation (details below)
-- Act in the spirit of “public goods” (e.g. don't falsifying support / user feedback) - PL will disqualify teams acting poorly
+- Act in the spirit of “public goods” (e.g. don't falsify support / user feedback) - PL will disqualify teams acting poorly
 - Submit additional supporting metrics / materials if needed at the end of the challenge for final evaluation
 
 For this pilot we will select up to 25 teams.
