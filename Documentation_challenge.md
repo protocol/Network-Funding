@@ -50,7 +50,7 @@ Documentation standards checklist
 
 Rewards will split evenly among participating teams and scale based on increased community participation
 
-| # teams participating | Prize pool | Cumulative prizes | Per team payout |
+| # teams participating | Prize pool | Cumulative prizes | Prize / team |
 |-------------------------|------------|-------------------|------------|
 |10 | $10k + 0.5k FIL | - | $1k + 0.05k FIL |
 |15 | $10k + 0.5k FIL | $20k + 1k FIL | $1.3k + 0.067k FIL |
