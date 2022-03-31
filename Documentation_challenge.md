@@ -50,12 +50,12 @@ Documentation standards checklist
 
 Rewards will split evenly among participating teams and scale based on increased community participation
 
-| # teams participating | Prize pool | Cumulative prizes |
-|-------------------------|------------|-------------------|
-|10 | $10k + 0.5k FIL | - |
-|15 | $10k + 0.5k FIL | $20k + 1k FIL |
-|20 | $10k + 0.5k FIL | $30k + 1.5k FIL |
-|25 | $10k + 0.5k FIL | $40k + 2k FIL |
+| # teams participating | Prize pool | Cumulative prizes | Per team payout |
+|-------------------------|------------|-------------------|------------|
+|10 | $10k + 0.5k FIL | - | $1k + 0.05k FIL |
+|15 | $10k + 0.5k FIL | $20k + 1k FIL | $1.3k + 0.067k FIL |
+|20 | $10k + 0.5k FIL | $30k + 1.5k FIL | $1.5k + 0.075k FIL |
+|25 | $10k + 0.5k FIL | $40k + 2k FIL | $1.6k + 0.08k FIL |
 
 
 ### User Feedback challenge (up to $40k + 2K FIL)
